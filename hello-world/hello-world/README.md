@@ -22,7 +22,7 @@ Run it!
 ## here is an example curl
 
 ```bash
-curl -X POST localhost:5557 -d "http://onet.pl"
+curl -X POST localhost:5555 -d "http://onet.pl"
 ```
 
 ## here is and example request for postman
